@@ -4,6 +4,7 @@ def my_collect(names)
   while i <names.length
 i = i + 1 
 collection << yield(names[i])
+i = i + 1
 end 
 collection
 end
