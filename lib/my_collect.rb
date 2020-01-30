@@ -1,4 +1,4 @@
-def my_collect
+def my_collect(names)
   i = 0 
-  while i <array.length
+  while i <names.length
 
